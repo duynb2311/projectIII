@@ -1,0 +1,13 @@
+* Cài đặt cơ sở dữ liệu:
+- Sử dụng MySql workbench : Server=>Data import
+* Cài đặt backend:
+- Tải ide java cùng với jdk11
+- Mở thư mục backend trong ide
+- Trong thư mục resouces, tệp application.properties,sửa đường dẫn đến MySql Server xủa bạn và sửa username password thành tài khoản và mật khẩu server MySQL của bạn
+- Chạy chương trình
+*Cài đặt frontend:
+- Tải ide visual studio code
+- Tải môi trường Node.js và npm
+- Mở thư mục frontend trong ide
+- Mở terminal trong IDE và chạy lệnh: npm install --force
+- Đợi tải xong sau đó chạy lệnh: npm start 

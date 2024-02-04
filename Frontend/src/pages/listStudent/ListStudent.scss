@@ -1,0 +1,27 @@
+.header-table {
+    background-color: white;
+    font-style: bold;
+}
+.add-exel{
+    background-color: white;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    h4{
+        margin-top: 10px;
+    }
+    input{
+        width: 200px;
+        margin-bottom: 10px;
+    }
+    button{
+        height: 30px;
+        border: none;
+        border-radius: 4px;
+        background-color: #007BFF;
+        color: white;
+        cursor: pointer;
+        width: fit-content;
+    }
+}
